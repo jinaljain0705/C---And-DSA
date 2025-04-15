@@ -1,0 +1,1 @@
+/*WAP to check if number is greater than 10 or less than 10.*/
