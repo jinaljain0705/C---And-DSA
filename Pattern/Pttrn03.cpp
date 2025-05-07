@@ -14,7 +14,7 @@ int main(){
 
         // Print leading spaces
         for (int j = 0; j < i; j++) {
-            cout << " ";
+            cout << "   ";
         }
         // Print stars
         for (int k = n - i; k > 0; k--) {
@@ -24,3 +24,4 @@ int main(){
     }
     return 0;
 }
+
