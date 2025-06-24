@@ -21,7 +21,8 @@ void hey(int &n){
 
 void increment(const int &n){
 
-    n = n + 10; // can not modify
+    // n = n + 10; // can not modify
+    cout << "n: " << n * n << endl;
 }
 
 int main(){
